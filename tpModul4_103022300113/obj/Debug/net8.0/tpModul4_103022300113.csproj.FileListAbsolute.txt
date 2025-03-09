@@ -1,0 +1,15 @@
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\bin\Debug\net8.0\tpModul4_103022300113.exe
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\bin\Debug\net8.0\tpModul4_103022300113.deps.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\bin\Debug\net8.0\tpModul4_103022300113.runtimeconfig.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\bin\Debug\net8.0\tpModul4_103022300113.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\bin\Debug\net8.0\tpModul4_103022300113.pdb
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.AssemblyInfoInputs.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.AssemblyInfo.cs
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.csproj.CoreCompileInputs.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.sourcelink.json
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\refint\tpModul4_103022300113.dll
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.pdb
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\tpModul4_103022300113.genruntimeconfig.cache
+C:\Telkom\Semester 4\Konstruksi\Praktikum\Modul4\tpModul4_103022300113\tpModul4_103022300113\obj\Debug\net8.0\ref\tpModul4_103022300113.dll
